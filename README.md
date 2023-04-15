@@ -37,13 +37,13 @@ ng g c components/new-post
 ng serve --open
 ng s -o
 
-https://tailwindcss.com/docs/guides/angular
+[Tailwind](https://tailwindcss.com/docs/guides/angular)
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init
 
 ng g c pages/home
 
-https://sapphire-whitefish-e8d.notion.site/Clone-Twitter-Aul-oDoFelip-o-13dce1f165b7438ab1dd6ac52a62ee6a
+[Notion](https://www.notion.so/Clone-Twitter-Aul-oDoFelip-o-90ab86f776ff4be39853431e21704745)
 
 padrão: nomes separados por hifen -
 
@@ -63,4 +63,4 @@ ng g c components/avatar
   - Trabalhar com services para tercerizar ações entre componentes
   - Diretivas Angular para trabalhar com lógica no HTML
 
-https://www.notion.so/Clone-Twitter-Aul-oDoFelip-o-90ab86f776ff4be39853431e21704745
+[Visualizar projeto em execução](https://angular-twitter-clone-ga30rvlyh-wsawebmaster.vercel.app/)
