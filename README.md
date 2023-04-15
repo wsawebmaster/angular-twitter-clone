@@ -62,3 +62,5 @@ ng g c components/avatar
   - Criar componentes dinâmicos que recebem parâmetros
   - Trabalhar com services para tercerizar ações entre componentes
   - Diretivas Angular para trabalhar com lógica no HTML
+
+https://www.notion.so/Clone-Twitter-Aul-oDoFelip-o-90ab86f776ff4be39853431e21704745
