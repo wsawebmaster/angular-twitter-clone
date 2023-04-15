@@ -26,12 +26,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
+
+# Comandos utilizados e links recomendados
+
 ng generate component components/header
 ng g c components/post
 ng g c components/tweet
 ng g c components/new-post
 
 ng serve --open
+ng s -o
 
 https://tailwindcss.com/docs/guides/angular
 npm install -D tailwindcss postcss autoprefixer
@@ -44,3 +48,17 @@ https://sapphire-whitefish-e8d.notion.site/Clone-Twitter-Aul-oDoFelip-o-13dce1f1
 padrão: nomes separados por hifen -
 
 ng g c components/footer
+
+ng generate service services/messages
+ng g s
+ng g c components/avatar
+
+# Angular Roadmap
+  - Componentizar seu front end
+  - Como funciona um componente
+  - Estilizar componentes com tailwind
+  - Estruturar um projeto Angular com boas práticas
+  - Pra que serve os arquivos dentro e fora da src
+  - Criar componentes dinâmicos que recebem parâmetros
+  - Trabalhar com services para tercerizar ações entre componentes
+  - Diretivas Angular para trabalhar com lógica no HTML
